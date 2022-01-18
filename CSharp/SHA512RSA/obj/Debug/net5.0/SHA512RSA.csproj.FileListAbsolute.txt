@@ -1,0 +1,16 @@
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512RSA\obj\Debug\net5.0\SHA512RSA.csprojAssemblyReference.cache
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512RSA\obj\Debug\net5.0\SHA512RSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512RSA\obj\Debug\net5.0\SHA512RSA.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512RSA\obj\Debug\net5.0\SHA512RSA.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512RSA\obj\Debug\net5.0\SHA512RSA.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512RSA\bin\Debug\net5.0\SHA512RSA.exe
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512RSA\bin\Debug\net5.0\SHA512RSA.deps.json
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512RSA\bin\Debug\net5.0\SHA512RSA.runtimeconfig.json
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512RSA\bin\Debug\net5.0\SHA512RSA.runtimeconfig.dev.json
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512RSA\bin\Debug\net5.0\SHA512RSA.dll
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512RSA\bin\Debug\net5.0\ref\SHA512RSA.dll
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512RSA\bin\Debug\net5.0\SHA512RSA.pdb
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512RSA\obj\Debug\net5.0\SHA512RSA.dll
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512RSA\obj\Debug\net5.0\ref\SHA512RSA.dll
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512RSA\obj\Debug\net5.0\SHA512RSA.pdb
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512RSA\obj\Debug\net5.0\SHA512RSA.genruntimeconfig.cache

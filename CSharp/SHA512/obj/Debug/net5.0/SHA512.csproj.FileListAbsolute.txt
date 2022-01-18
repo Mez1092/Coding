@@ -1,0 +1,16 @@
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512\bin\Debug\net5.0\SHA512.exe
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512\bin\Debug\net5.0\SHA512.deps.json
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512\bin\Debug\net5.0\SHA512.runtimeconfig.json
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512\bin\Debug\net5.0\SHA512.runtimeconfig.dev.json
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512\bin\Debug\net5.0\SHA512.dll
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512\bin\Debug\net5.0\ref\SHA512.dll
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512\bin\Debug\net5.0\SHA512.pdb
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512\obj\Debug\net5.0\SHA512.csprojAssemblyReference.cache
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512\obj\Debug\net5.0\SHA512.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512\obj\Debug\net5.0\SHA512.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512\obj\Debug\net5.0\SHA512.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512\obj\Debug\net5.0\SHA512.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512\obj\Debug\net5.0\SHA512.dll
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512\obj\Debug\net5.0\ref\SHA512.dll
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512\obj\Debug\net5.0\SHA512.pdb
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\SHA512\obj\Debug\net5.0\SHA512.genruntimeconfig.cache

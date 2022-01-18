@@ -1,0 +1,16 @@
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\DES\obj\Debug\net5.0\DES.csprojAssemblyReference.cache
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\DES\obj\Debug\net5.0\DES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\DES\obj\Debug\net5.0\DES.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\DES\obj\Debug\net5.0\DES.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\DES\obj\Debug\net5.0\DES.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\DES\bin\Debug\net5.0\DES.exe
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\DES\bin\Debug\net5.0\DES.deps.json
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\DES\bin\Debug\net5.0\DES.runtimeconfig.json
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\DES\bin\Debug\net5.0\DES.runtimeconfig.dev.json
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\DES\bin\Debug\net5.0\DES.dll
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\DES\bin\Debug\net5.0\ref\DES.dll
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\DES\bin\Debug\net5.0\DES.pdb
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\DES\obj\Debug\net5.0\DES.dll
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\DES\obj\Debug\net5.0\ref\DES.dll
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\DES\obj\Debug\net5.0\DES.pdb
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\DES\obj\Debug\net5.0\DES.genruntimeconfig.cache
