@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\marco\\.nuget\\packages\\": {}
+    "C:\\Users\\marco.mezzetti\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Documenti\\Visual Studio Code\\CSharp\\SHA512RSA\\SHA512RSA.csproj",
+      "projectUniqueName": "C:\\Users\\marco.mezzetti\\OneDrive - Accenture\\Documents\\Visual Studio Code\\Coding\\CSharp\\SHA512RSA\\SHA512RSA.csproj",
       "projectName": "SHA512RSA",
-      "projectPath": "C:\\Users\\marco\\OneDrive\\Documenti\\Visual Studio Code\\CSharp\\SHA512RSA\\SHA512RSA.csproj",
-      "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marco\\OneDrive\\Documenti\\Visual Studio Code\\CSharp\\SHA512RSA\\obj\\",
+      "projectPath": "C:\\Users\\marco.mezzetti\\OneDrive - Accenture\\Documents\\Visual Studio Code\\Coding\\CSharp\\SHA512RSA\\SHA512RSA.csproj",
+      "packagesPath": "C:\\Users\\marco.mezzetti\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marco.mezzetti\\OneDrive - Accenture\\Documents\\Visual Studio Code\\Coding\\CSharp\\SHA512RSA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marco.mezzetti\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
