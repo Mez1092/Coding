@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\marco\\OneDrive\\Documenti\\Visual Studio Code\\CSharp\\BouncyCastleRSASHA512\\BouncyCastleRSASHA512.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marco\\OneDrive\\Documenti\\Visual Studio Code\\CSharp\\BouncyCastleRSASHA512\\BouncyCastleRSASHA512.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Documenti\\Visual Studio Code\\CSharp\\BouncyCastleRSASHA512\\BouncyCastleRSASHA512.csproj",
+        "projectName": "BouncyCastleRSASHA512",
+        "projectPath": "C:\\Users\\marco\\OneDrive\\Documenti\\Visual Studio Code\\CSharp\\BouncyCastleRSASHA512\\BouncyCastleRSASHA512.csproj",
+        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marco\\OneDrive\\Documenti\\Visual Studio Code\\CSharp\\BouncyCastleRSASHA512\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.7"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net47": {
+            "targetAlias": "net4.7",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net47": {
+          "targetAlias": "net4.7",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

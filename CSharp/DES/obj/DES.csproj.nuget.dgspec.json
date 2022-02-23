@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco.mezzetti\\OneDrive - Accenture\\Documents\\Visual Studio Code\\Coding\\CSharp\\DES\\DES.csproj": {}
+    "C:\\Users\\marco\\OneDrive\\Documenti\\Visual Studio Code\\CSharp\\DES\\DES.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco.mezzetti\\OneDrive - Accenture\\Documents\\Visual Studio Code\\Coding\\CSharp\\DES\\DES.csproj": {
+    "C:\\Users\\marco\\OneDrive\\Documenti\\Visual Studio Code\\CSharp\\DES\\DES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco.mezzetti\\OneDrive - Accenture\\Documents\\Visual Studio Code\\Coding\\CSharp\\DES\\DES.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Documenti\\Visual Studio Code\\CSharp\\DES\\DES.csproj",
         "projectName": "DES",
-        "projectPath": "C:\\Users\\marco.mezzetti\\OneDrive - Accenture\\Documents\\Visual Studio Code\\Coding\\CSharp\\DES\\DES.csproj",
-        "packagesPath": "C:\\Users\\marco.mezzetti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco.mezzetti\\OneDrive - Accenture\\Documents\\Visual Studio Code\\Coding\\CSharp\\DES\\obj\\",
+        "projectPath": "C:\\Users\\marco\\OneDrive\\Documenti\\Visual Studio Code\\CSharp\\DES\\DES.csproj",
+        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marco\\OneDrive\\Documenti\\Visual Studio Code\\CSharp\\DES\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marco.mezzetti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

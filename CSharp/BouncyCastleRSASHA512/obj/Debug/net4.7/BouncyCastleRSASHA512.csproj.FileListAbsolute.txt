@@ -1,0 +1,4 @@
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\BouncyCastleRSASHA512\obj\Debug\net4.7\BouncyCastleRSASHA512.csprojAssemblyReference.cache
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\BouncyCastleRSASHA512\obj\Debug\net4.7\BouncyCastleRSASHA512.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\BouncyCastleRSASHA512\obj\Debug\net4.7\BouncyCastleRSASHA512.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documenti\Visual Studio Code\CSharp\BouncyCastleRSASHA512\obj\Debug\net4.7\BouncyCastleRSASHA512.csproj.CoreCompileInputs.cache
